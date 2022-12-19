@@ -2,6 +2,8 @@ Quiz Beast - Learn and Earn Coins, that offers users to guess correct answer. Ed
 
 This App is good for all age groups who want to improve & build up their knowledge with us.
 
+Download - https://play.google.com/store/apps/details?id=com.ishant.quizbeast
+
 Once the coins are earned, you can easily exchange your coins for rewards! Gift cards or Subscription or wallet transfer is your choice! Making coins by guessing the correct answer for the question!
 
 How can you earn coins :
